@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "url": "https://github.com/hakai0231/memonote-release/releases/download/v5/memonote.apk",
-  "notes": "양식 하나만 저장, 목록 화면 체크박스 삭제, 중요 표시(그냥·색칠 별표)"
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "url": "https://github.com/hakai0231/memonote-release/releases/download/v6/memonote.apk",
+  "notes": "메모 읽기 화면(편집·두 번 누르기로 편집), 계좌 메모와 계좌번호 복사"
 }
