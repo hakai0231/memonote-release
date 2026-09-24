@@ -4,10 +4,10 @@
   "url": "https://github.com/hakai0231/memonote-release/releases/download/v9/memonote.apk",
   "notes": "요리 메모, 동기화 중 편집이 사라질 수 있던 문제 3가지 수정",
   "windows": {
-    "versionCode": 9,
-    "versionName": "1.0.8",
-    "url": "https://github.com/hakai0231/memonote-release/releases/download/v9/MemoNote-Setup.exe",
-    "notes": "요리 메모, 동기화 중 편집이 사라질 수 있던 문제 3가지 수정",
-    "sha256": "d503a73273b7b6b2629337e5e16da2e7d2e17ce90450296ee90e3904bf321455"
+    "versionCode": 10,
+    "versionName": "1.0.9",
+    "url": "https://github.com/hakai0231/memonote-release/releases/download/v10/MemoNote-Setup.exe",
+    "notes": "PC: 창을 닫을 때 마지막 입력까지 저장, 두 번 실행 방지",
+    "sha256": "99d38a2467a8a8e1e7b4d79421514deea112b2f625ee597903cfec47596e38a4"
   }
 }
