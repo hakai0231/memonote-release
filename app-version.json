@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "url": "https://github.com/hakai0231/memonote-release/releases/download/v2/memonote.apk",
-  "notes": "앱 안 업데이트, 켤 때 자동 지문, 동기화 때 로그인 창 제거"
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "url": "https://github.com/hakai0231/memonote-release/releases/download/v3/memonote.apk",
+  "notes": "잠금만 풀 때는 동기화 생략, 뒤로 가기 시 종료 확인"
 }
