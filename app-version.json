@@ -1,13 +1,13 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "url": "https://github.com/hakai0231/memonote-release/releases/download/v9/memonote.apk",
-  "notes": "요리 메모, 동기화 중 편집이 사라질 수 있던 문제 3가지 수정",
+  "versionCode": 11,
+  "versionName": "1.0.10",
+  "url": "https://github.com/hakai0231/memonote-release/releases/download/v11/memonote.apk",
+  "notes": "마스터 암호 변경(더 보기 메뉴), 다른 기기에 동기화로 전달",
   "windows": {
-    "versionCode": 10,
-    "versionName": "1.0.9",
-    "url": "https://github.com/hakai0231/memonote-release/releases/download/v10/MemoNote-Setup.exe",
-    "notes": "PC: 창을 닫을 때 마지막 입력까지 저장, 두 번 실행 방지",
-    "sha256": "99d38a2467a8a8e1e7b4d79421514deea112b2f625ee597903cfec47596e38a4"
+    "versionCode": 11,
+    "versionName": "1.0.10",
+    "url": "https://github.com/hakai0231/memonote-release/releases/download/v11/MemoNote-Setup.exe",
+    "notes": "마스터 암호 변경(더 보기 메뉴), 다른 기기에 동기화로 전달",
+    "sha256": "9765f24c0659e93bbf6b8c6d31f338a37efe1f9e91bd65095dfd0f52d6557eb8"
   }
 }
