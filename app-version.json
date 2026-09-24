@@ -1,13 +1,13 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
-  "url": "https://github.com/hakai0231/memonote-release/releases/download/v7/memonote.apk",
-  "notes": "PC 설치 파일과 PC 앱 자동 업데이트",
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "url": "https://github.com/hakai0231/memonote-release/releases/download/v9/memonote.apk",
+  "notes": "요리 메모, 동기화 중 편집이 사라질 수 있던 문제 3가지 수정",
   "windows": {
-    "versionCode": 8,
-    "versionName": "1.0.7",
-    "url": "https://github.com/hakai0231/memonote-release/releases/download/v8/MemoNote-Setup.exe",
-    "notes": "PC: Google Drive 동기화 오류(AccessToken 형식) 수정",
-    "sha256": "a89aa157bc530c158eface132d8558533bbac81bb9bb38b8cc26186e6c6ec401"
+    "versionCode": 9,
+    "versionName": "1.0.8",
+    "url": "https://github.com/hakai0231/memonote-release/releases/download/v9/MemoNote-Setup.exe",
+    "notes": "요리 메모, 동기화 중 편집이 사라질 수 있던 문제 3가지 수정",
+    "sha256": "d503a73273b7b6b2629337e5e16da2e7d2e17ce90450296ee90e3904bf321455"
   }
 }
