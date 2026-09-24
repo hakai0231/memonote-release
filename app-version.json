@@ -1,6 +1,13 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "url": "https://github.com/hakai0231/memonote-release/releases/download/v6/memonote.apk",
-  "notes": "메모 읽기 화면(편집·두 번 누르기로 편집), 계좌 메모와 계좌번호 복사"
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "url": "https://github.com/hakai0231/memonote-release/releases/download/v7/memonote.apk",
+  "notes": "PC 설치 파일과 PC 앱 자동 업데이트",
+  "windows": {
+    "versionCode": 7,
+    "versionName": "1.0.6",
+    "url": "https://github.com/hakai0231/memonote-release/releases/download/v7/MemoNote-Setup.exe",
+    "notes": "PC 설치 파일과 PC 앱 자동 업데이트",
+    "sha256": "043876b1eb2f8f48a9475881e3cc62cc55fb4c3154a812ede9f478af990ee92b"
+  }
 }
