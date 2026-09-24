@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "url": "https://github.com/hakai0231/memonote-release/releases/download/v3/memonote.apk",
-  "notes": "잠금만 풀 때는 동기화 생략, 뒤로 가기 시 종료 확인"
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "url": "https://github.com/hakai0231/memonote-release/releases/download/v4/memonote.apk",
+  "notes": "실시간 저장, 목록 행 여러 줄 입력, 취소선 제거, 메모 설정(체크 항목 정렬 방식)"
 }
