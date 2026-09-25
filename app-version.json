@@ -4,10 +4,10 @@
   "url": "https://github.com/hakai0231/memonote-release/releases/download/v11/memonote.apk",
   "notes": "마스터 암호 변경(더 보기 메뉴), 다른 기기에 동기화로 전달",
   "windows": {
-    "versionCode": 11,
-    "versionName": "1.0.10",
-    "url": "https://github.com/hakai0231/memonote-release/releases/download/v11/MemoNote-Setup.exe",
-    "notes": "마스터 암호 변경(더 보기 메뉴), 다른 기기에 동기화로 전달",
-    "sha256": "9765f24c0659e93bbf6b8c6d31f338a37efe1f9e91bd65095dfd0f52d6557eb8"
+    "versionCode": 12,
+    "versionName": "1.0.11",
+    "url": "https://github.com/hakai0231/memonote-release/releases/download/v12/MemoNote-Setup.exe",
+    "notes": "PC 지문 열기(Windows Hello, 지문 센서가 있는 PC)",
+    "sha256": "8dacd957d9afd59d3ef745c5c3b69feaf2fa23fadddffd0621e5a6103f5c12af"
   }
 }
