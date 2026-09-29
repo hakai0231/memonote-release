@@ -1,13 +1,13 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.12",
-  "url": "https://github.com/hakai0231/memonote-release/releases/download/v13/memonote.apk",
-  "notes": "메모를 종류별 제목 목록으로 정리하고 모바일 색상·PC 왼쪽 메뉴를 개선했습니다. 지문·업데이트·백업·암호 변경은 상단 더 보기 메뉴에서 사용할 수 있습니다.",
+  "versionCode": 14,
+  "versionName": "1.0.13",
+  "url": "https://github.com/hakai0231/memonote-release/releases/download/v14/memonote.apk",
+  "notes": "사진에서 요리 가져오기(⋯ 메뉴): 레시피 스크린샷을 보내면 노트북이 재료·순서·메모로 정리해 요리 메모로 넣어 줍니다",
   "windows": {
-    "versionCode": 13,
-    "versionName": "1.0.12",
-    "url": "https://github.com/hakai0231/memonote-release/releases/download/v13/MemoNote-Setup.exe",
-    "notes": "메모를 종류별 제목 목록으로 정리하고 모바일 색상·PC 왼쪽 메뉴를 개선했습니다. 지문·업데이트·백업·암호 변경은 상단 더 보기 메뉴에서 사용할 수 있습니다.",
-    "sha256": "570b7a2de78e4a92c0f0f5a7d1dac593f26072777419510f3aad25b700e7b301"
+    "versionCode": 14,
+    "versionName": "1.0.13",
+    "url": "https://github.com/hakai0231/memonote-release/releases/download/v14/MemoNote-Setup.exe",
+    "notes": "사진에서 요리 가져오기(⋯ 메뉴): 레시피 스크린샷을 보내면 노트북이 재료·순서·메모로 정리해 요리 메모로 넣어 줍니다",
+    "sha256": "6b5cc8b87194f0066508ad4770f8d0f641fcbb9b6d5fe521d64f3dfa68cda56a"
   }
 }
