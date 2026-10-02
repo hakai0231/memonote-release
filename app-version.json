@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "1.0.13",
-  "url": "https://github.com/hakai0231/memonote-release/releases/download/v14/memonote.apk",
-  "notes": "사진에서 요리 가져오기(⋯ 메뉴): 레시피 스크린샷을 보내면 노트북이 재료·순서·메모로 정리해 요리 메모로 넣어 줍니다",
+  "versionCode": 15,
+  "versionName": "1.0.14",
+  "url": "https://github.com/hakai0231/memonote-release/releases/download/v15/memonote.apk",
+  "notes": "요리 가져오기 알림 자동 정리·닫기 및 잠금 중 완료 대기 재발 방지",
   "windows": {
     "versionCode": 14,
     "versionName": "1.0.13",
