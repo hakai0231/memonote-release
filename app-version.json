@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.14",
-  "url": "https://github.com/hakai0231/memonote-release/releases/download/v15/memonote.apk",
-  "notes": "요리 가져오기 알림 자동 정리·닫기 및 잠금 중 완료 대기 재발 방지",
+  "versionCode": 16,
+  "versionName": "1.0.15",
+  "url": "https://github.com/hakai0231/memonote-release/releases/download/v16/memonote.apk",
+  "notes": "모바일 요리 읽기 화면 캡처 허용 및 화면 꺼짐 방지",
   "windows": {
     "versionCode": 14,
     "versionName": "1.0.13",
