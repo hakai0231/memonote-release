@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "1.0.15",
-  "url": "https://github.com/hakai0231/memonote-release/releases/download/v16/memonote.apk",
-  "notes": "모바일 요리 읽기 화면 캡처 허용 및 화면 꺼짐 방지",
+  "versionCode": 17,
+  "versionName": "1.0.16",
+  "url": "https://github.com/hakai0231/memonote-release/releases/download/v17/memonote.apk",
+  "notes": "Android 전체 화면 캡처 허용 및 편집 버튼과 홈 버튼 겹침 수정",
   "windows": {
     "versionCode": 14,
     "versionName": "1.0.13",
